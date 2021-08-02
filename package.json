@@ -1,0 +1,24 @@
+{
+  "name": "html-css-lvl1",
+  "version": "1.0.0",
+  "description": "First project HTML/CSS",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatherinaFed/layout-designer-project-lvl1.git"
+  },
+  "author": "Ekaterina Fedoseeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatherinaFed/layout-designer-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/KatherinaFed/layout-designer-project-lvl1#readme",
+  "dependencies": {
+    "htmlhint": "^0.15.1",
+    "stylelint-config-standard": "^22.0.0",
+    "surge": "^0.23.0"
+  }
+}
